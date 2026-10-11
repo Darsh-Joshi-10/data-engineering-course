@@ -166,4 +166,4 @@ You'll need Python 3.10 or newer and Git. Full setup is covered in Module 0 and 
 
 ## Author
 
-Made by [YOUR NAME]. Questions or feedback? Open an issue or leave a comment on the video.
+Made by Darsh Joshi. Questions or feedback? Open an issue or leave a comment on the video.
