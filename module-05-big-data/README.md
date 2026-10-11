@@ -4,6 +4,8 @@ Why one machine isn't enough, and how Spark and Kafka handle data at scale.
 
 **By the end of this module:** Process large datasets in batch and as streams.
 
+[Watch the full playlist on YouTube](https://www.youtube.com/playlist?list=PLNitbFlQOHLI)
+
 ## Videos
 
 | # | Video | Status | Code |

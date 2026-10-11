@@ -4,6 +4,8 @@ SQL from SELECT to window functions, how to model data, and running PostgreSQL y
 
 **By the end of this module:** Query, design, and tune a relational database.
 
+[Watch the full playlist on YouTube](https://www.youtube.com/playlist?list=PLNitbFlQOHLI)
+
 ## Videos
 
 | # | Video | Status | Code |

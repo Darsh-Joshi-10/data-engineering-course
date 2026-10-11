@@ -4,6 +4,8 @@ One portfolio-grade project from design to deployment, then the job hunt.
 
 **By the end of this module:** Finish with a project and a resume you can show employers.
 
+[Watch the full playlist on YouTube](https://www.youtube.com/playlist?list=PLNitbFlQOHLI)
+
 ## Videos
 
 | # | Video | Status | Code |

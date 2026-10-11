@@ -4,6 +4,8 @@ How analytical systems differ from transactional ones, and how to model data for
 
 **By the end of this module:** Design a warehouse that analysts can actually use.
 
+[Watch the full playlist on YouTube](https://www.youtube.com/playlist?list=PLNitbFlQOHLI)
+
 ## Videos
 
 | # | Video | Status | Code |

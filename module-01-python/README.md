@@ -4,6 +4,8 @@ The 20% of Python data engineers use 80% of the time, then your first end-to-end
 
 **By the end of this module:** Write clean, defensive Python and build a small ETL script.
 
+[Watch the full playlist on YouTube](https://www.youtube.com/playlist?list=PLNitbFlQOHLI)
+
 ## Videos
 
 | # | Video | Status | Code |

@@ -4,6 +4,8 @@ Making pipelines trustworthy: checks, tests, CI/CD, and monitoring.
 
 **By the end of this module:** Ship pipelines that catch their own problems.
 
+[Watch the full playlist on YouTube](https://www.youtube.com/playlist?list=PLNitbFlQOHLI)
+
 ## Videos
 
 | # | Video | Status | Code |

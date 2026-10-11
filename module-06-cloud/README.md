@@ -4,6 +4,8 @@ Storage, security, and managed data services in the cloud.
 
 **By the end of this module:** Deploy your pipeline to the cloud without surprise bills.
 
+[Watch the full playlist on YouTube](https://www.youtube.com/playlist?list=PLNitbFlQOHLI)
+
 ## Videos
 
 | # | Video | Status | Code |

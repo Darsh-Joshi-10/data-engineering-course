@@ -4,6 +4,8 @@ Moving and transforming data on a schedule with Airflow and dbt.
 
 **By the end of this module:** Run a full, scheduled Airflow + dbt pipeline.
 
+[Watch the full playlist on YouTube](https://www.youtube.com/playlist?list=PLNitbFlQOHLI)
+
 ## Videos
 
 | # | Video | Status | Code |

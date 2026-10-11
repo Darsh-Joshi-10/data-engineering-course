@@ -4,7 +4,7 @@ Hands-on data engineering course: Python, SQL, pipelines, cloud, and a portfolio
 
 This repo holds the code for every video in the course. Each video ends with working code committed here.
 
-**Watch the course:** [YOUR YOUTUBE PLAYLIST LINK]
+**Watch the course:** [Data Engineering playlist on YouTube](https://www.youtube.com/playlist?list=PLNitbFlQOHLI)
 
 ## Who this is for
 
@@ -22,8 +22,8 @@ People who want to become data engineers and learn by building. Basic programmin
 
 | Module | Topic | Videos | Status |
 |--------|-------|--------|--------|
-| [0. Course Intro & Roadmap](module-00-intro/) | What data engineering is, where this course is going, and the free tools you'll need. | 3 | Planned |
-| [1. Python for Data Engineering](module-01-python/) | The 20% of Python data engineers use 80% of the time, then your first end-to-end ETL script. | 7 | In progress |
+| [0. Course Intro & Roadmap](module-00-intro/) | What data engineering is, where this course is going, and the free tools you'll need. | 3 | In progress |
+| [1. Python for Data Engineering](module-01-python/) | The 20% of Python data engineers use 80% of the time, then your first end-to-end ETL script. | 7 | Up next |
 | [2. Databases & SQL](module-02-databases-sql/) | SQL from SELECT to window functions, how to model data, and running PostgreSQL yourself. | 7 | Planned |
 | [3. Data Warehousing](module-03-data-warehousing/) | How analytical systems differ from transactional ones, and how to model data for them. | 6 | Planned |
 | [4. ETL / ELT & Orchestration](module-04-etl-orchestration/) | Moving and transforming data on a schedule with Airflow and dbt. | 7 | Planned |
@@ -38,8 +38,8 @@ People who want to become data engineers and learn by building. Basic programmin
 
 What data engineering is, where this course is going, and the free tools you'll need.
 
-- 0.1 What is Data Engineering? (vs Data Science vs Data Analyst)
-- 0.2 Full Course Roadmap & How to Follow Along
+- 0.1 [What is Data Engineering? (vs Data Science vs Data Analyst)](https://youtu.be/nCy4RJDH0LE)
+- 0.2 [Full Course Roadmap & How to Follow Along](https://youtu.be/YSOrBgQTUSM)
 - 0.3 Tools You'll Need (All Free)
 
 ### [Module 1: Python for Data Engineering](module-01-python/)
