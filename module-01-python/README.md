@@ -10,7 +10,7 @@ The 20% of Python data engineers use 80% of the time, then your first end-to-end
 
 | # | Video | Status | Code |
 |---|-------|--------|------|
-| 1.1 | Python Refresher: Only What Data Engineers Actually Use | In progress | [`video-1.1-python-refresher/`](video-1.1-python-refresher/) |
+| 1.1 | [Python Refresher: Only What Data Engineers Actually Use](https://youtu.be/XQ_hGNG_nug) | In progress | [`video-1.1-python-refresher/`](video-1.1-python-refresher/) |
 | 1.2 | Working with Files: CSV, JSON, Excel | Planned | - |
 | 1.3 | APIs and Web Scraping Basics | Planned | - |
 | 1.4 | Pandas Deep Dive, Part 1 | Planned | - |

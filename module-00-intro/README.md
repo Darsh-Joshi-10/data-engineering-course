@@ -12,7 +12,7 @@ What data engineering is, where this course is going, and the free tools you'll 
 |---|-------|--------|------|
 | 0.1 | [What is Data Engineering? (vs Data Science vs Data Analyst)](https://youtu.be/nCy4RJDH0LE) | Published | - |
 | 0.2 | [Full Course Roadmap & How to Follow Along](https://youtu.be/YSOrBgQTUSM) | Published | - |
-| 0.3 | Tools You'll Need (All Free) | Coming soon | - |
+| 0.3 | [Tools You'll Need (All Free)](https://youtu.be/VjOWvqT6dtk) | Published | - |
 
 ---
 
