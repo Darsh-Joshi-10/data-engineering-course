@@ -4,16 +4,16 @@ The 20% of Python data engineers use 80% of the time, then your first end-to-end
 
 **By the end of this module:** Write clean, defensive Python and build a small ETL script.
 
-[Watch the full playlist on YouTube](https://www.youtube.com/playlist?list=PLNitbFlQOHLI)
+[Watch the full playlist on YouTube](https://www.youtube.com/@D-Code-It10/playlists)
 
 ## Videos
 
 | # | Video | Status | Code |
 |---|-------|--------|------|
-| 1.1 | [Python Refresher: Only What Data Engineers Actually Use](https://youtu.be/XQ_hGNG_nug) | Scheduled | [`video-1.1-python-refresher/`](video-1.1-python-refresher/) |
-| 1.2 | Working with Files: CSV, JSON, Excel | Planned | - |
-| 1.3 | APIs and Web Scraping Basics | Planned | - |
-| 1.4 | Pandas Deep Dive, Part 1 | Planned | - |
+| 1.1 | [Python for Data Engineering: The 20% You Actually Use](https://www.youtube.com/watch?v=XQ_hGNG_nug) | Published | [`video-1.1-python-refresher/`](video-1.1-python-refresher/) |
+| 1.2 | [Working with Files in Python: CSV, JSON, Excel](https://www.youtube.com/watch?v=AHGVz_Vl-OA) | Published | [`video-1.2-working-with-files/`](video-1.2-working-with-files/) |
+| 1.3 | [APIs for Data Engineers: Requests, Pagination & Retries in Python](https://www.youtube.com/watch?v=KG-7MCF6BUI) | Published | [`03_apis/`](03_apis/) |
+| 1.4 | Pandas Deep Dive, Part 1 | Published | [`04_pandas/`](04_pandas/) |
 | 1.5 | Pandas Deep Dive, Part 2 | Planned | - |
 | 1.6 | Error Handling, Logging, and Config Files | Planned | - |
 | 1.7 | Your First ETL Script, End to End | Planned | - |
